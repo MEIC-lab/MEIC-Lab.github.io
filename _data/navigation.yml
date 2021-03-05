@@ -9,8 +9,6 @@ nav:
     section: portfolio
   - title: "Publication"
     section: services
-  - title: "Facility"
-    section: portfolio
   - title: "Contact"
     section: contact
 
