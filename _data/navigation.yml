@@ -1,18 +1,16 @@
 nav:
-  - title: "Services"
+  - title: "Introduction"
     section: services
-
-  - title: "Portfolio"
-    section: portfolio
-    
-  - title: "About"
+  - title: "Dr. Jongseong Brad Choi"
     section: timeline
-
   - title: "Team"
     section: team
-
+  - title: "Research"
+    section: portfolio
+  - title: "Publication"
+    section: services
+  - title: "Facility"
+    section: portfolio
   - title: "Contact"
     section: contact
 
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
