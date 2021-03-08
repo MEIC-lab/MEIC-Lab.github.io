@@ -1,6 +1,6 @@
 header:
-    title: MEIC: Mechanical systems
-    text: Welcome to MEIC Lab!
+    title: Welcome to our Studio!
+    text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
 
@@ -136,3 +136,5 @@ footer:
       - url: https://instagram.com
         icon: "fab fa-instagram"
 
+
+# {{ site.data.sitetext.ex.ex | markdownify | default: example }}
