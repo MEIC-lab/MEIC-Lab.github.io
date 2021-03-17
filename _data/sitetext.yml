@@ -4,9 +4,11 @@ header:
     button: Tell Me More
     buttonlink: "#services"
 
-services:
-    title: "Introduction"
-    text: "intro text..."
+introduction:
+    title: "News"
+    text: "news 1"
+    text: "news 2"
+    text: "news 3"
     section: services
     list:
       - title: "Smart Mechanical Systems"
@@ -94,7 +96,7 @@ portfolio:
     closebutton: "Close Project"
     
 
-about:
+publication:
     title: "About Us"
     text: "our story"
     section: about
