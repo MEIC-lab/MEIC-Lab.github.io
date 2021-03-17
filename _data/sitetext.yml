@@ -20,7 +20,7 @@ services:
         icon: fab fa-markdown
 
 timeline:
-    title: "About" 
+    title: "Dr. Jongseong Brad Choi" 
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
