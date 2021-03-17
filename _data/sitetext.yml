@@ -9,9 +9,9 @@ services:
     text: "news 1"
     section: services
     list:
-      - title: "Smart Mechanical Systems"
+      - title: ""
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon:
       - title: "Smart and Resilient Cities"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop       
