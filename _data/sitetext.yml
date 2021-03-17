@@ -7,8 +7,6 @@ header:
 services:
     title: "News"
     text: "news 1"
-    text: "news 2"
-    text: "news 3"
     section: services
     list:
       - title: "Smart Mechanical Systems"
@@ -20,7 +18,22 @@ services:
       - title: "[Visual Assessment](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
+      - title: "Smart Mechanical Systems"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Smart and Resilient Cities"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop       
+      - title: "[Visual Assessment](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
 
+portfolio:
+    title: "Research"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
+    closebutton: "Close Project"
+    
 timeline:
     title: "Dr. Jongseong Brad Choi" 
     text: "Lorem ipsum timeline"
@@ -89,13 +102,6 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
           
-portfolio:
-    title: "Research"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
-    
-
 about:
     title: "About Us"
     text: "our story"
