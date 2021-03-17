@@ -22,7 +22,7 @@ description: "what is this brad"
 author     : Jongseong Brad Choi
 logo:     #optional, defaults to site title
   path: assets\img\logofinal_color1.png
-  height: 100 #height in px, defaults to 52px
+  height: 200 #height in px, defaults to 52px
 
 analytics:
   google: #Google Analytics tracking code here
