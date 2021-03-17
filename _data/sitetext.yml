@@ -93,6 +93,20 @@ portfolio:
     section: portfolio
     closebutton: "Close Project"
     
+services:
+    title: "Publication"
+    text: "intro text..."
+    section: services
+    list:
+      - title: "Smart Mechanical Systems"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Smart and Resilient Cities"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop       
+      - title: "[Visual Assessment](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
 
 about:
     title: "About Us"
