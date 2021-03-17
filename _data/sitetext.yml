@@ -1,10 +1,10 @@
 header:
-    title: MEIC - MEchanical systems with Intelligence and Computer Vision
+    title: MEIC - Mechanical Systems with Intelligence and Computer Vision
     text: Welcome to MEIC Lab!
     button: Tell Me More
     buttonlink: "#services"
 
-services:
+introduction:
     title: "Introduction"
     text: "Lorem ipsum"
     section: services
