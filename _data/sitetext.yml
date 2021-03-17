@@ -4,7 +4,7 @@ header:
     button: Tell Me More
     buttonlink: "#services"
 
-introduction:
+services:
     title: "News"
     text: "news 1"
     text: "news 2"
@@ -96,7 +96,7 @@ portfolio:
     closebutton: "Close Project"
     
 
-publication:
+about:
     title: "About Us"
     text: "our story"
     section: about
@@ -104,7 +104,7 @@ publication:
 clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "yes" #"yes/no"
     list:
       - title: "envato"
         url: https://github.com/raviriley/agency-jekyll-theme
