@@ -4,7 +4,8 @@ title: Privacy Policy
 background: grey
 ---
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
+	<h2 class="section-heading text-uppercase">Privacy Policy Brad</h2>
+	<h2 class="section-heading text-uppercase">Choi</h2>
 </div>
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
