@@ -36,10 +36,10 @@ portfolio:
     
 timeline:
     title: "Dr. Jongseong Brad Choi" 
-    text: "Hard"
+    text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
-    #start_align: "left" 
+    #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
         year: "2009-2011"
