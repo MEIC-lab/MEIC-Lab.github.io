@@ -36,6 +36,7 @@ portfolio:
     
 timeline:
     title: "Dr. Jongseong Brad Choi" 
+    image: assets/img/timeline/1.jpg
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
