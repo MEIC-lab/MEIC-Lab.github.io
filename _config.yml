@@ -19,8 +19,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title      : MEIC Lab.
 email      : meic.laboratory@gmail.com #this is also the email contact forms will go to
 description: "what is this brad"
-logo: logo.jpg
-teaser: logo.jpg
 author     : Jongseong Brad Choi
 logo:     #optional, defaults to site title
   path: assets\img\logo_brad.png
