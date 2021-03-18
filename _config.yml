@@ -16,14 +16,23 @@ theme: jekyll-agency
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Your Awesome Website
+title      : MEIC Lab.
 email      : meic.laboratory@gmail.com #this is also the email contact forms will go to
 description: "what is this brad"
+logo: logo.jpg
+teaser: logo.jpg
 author     : Jongseong Brad Choi
 logo:     #optional, defaults to site title
   path: assets\img\logo_brad.png
   height: 80 #height in px, defaults to 52px
 
+# Site owner
+owner:
+  name: “Jongseong Brad Choi“
+  web: "https://bradjchoi.github.io"
+  bio: “Mechanical and Computer Vision Engineer"
+  avatar: "bio-photo.jpg" # 160x160 px image for author byline
+  
 analytics:
   google: #Google Analytics tracking code here
 
