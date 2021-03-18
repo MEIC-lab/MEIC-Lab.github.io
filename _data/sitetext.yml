@@ -49,7 +49,6 @@ timeline:
         # you can enforce the aligment
         align: right
     end: "Be Part <br> of Our <br> Story!"
-    
     events:
       - title: "Our Humble Beginnings"
         year: "2009-2011"
