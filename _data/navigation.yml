@@ -1,14 +1,12 @@
 nav:
   - title: "Introduction"
     section: services
+  - title: "Research"
+    section: portfolio
   - title: "Dr. Jongseong Brad Choi"
     section: timeline
   - title: "Team"
     section: team
-  - title: "Research"
-    section: portfolio
-  - title: "Publication"
-    section: about
   - title: "Contact"
     section: contact
 
