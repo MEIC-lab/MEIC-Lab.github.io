@@ -10,7 +10,7 @@
   <div class="row">
   {% for person in site.data.sitetext.me.people %}
   <img style="float: left; margin: 0px 15px 15px 0px;" class="mx-auto rounded-circle" src="{{ person.image }}" width="300" />
-  <div class="large text-muted">{{ site.data.sitetext.me.people.bio | markdownify }}</div>
+  <div class="large text-muted">{{ person.bio | markdownify }}</div>
   </div>
   <div class="container">
    <h4>{{ person.name }}</h4>
