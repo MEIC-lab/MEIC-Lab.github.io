@@ -10,9 +10,33 @@ announcement:
     text: "**Dec. 10, 2020**: We are looking for **a graduate student (PhD or Direct PhD)** who will explore cutting-edge smart structure topics, particularly in computer vision for structure assessment and virtual reality (VR, AR, & MR) applications. It is preferred that students have taken courses related to computer vision or machine learning and have programming background such as languages (e.g., Python, C++/C#), web service (e.g., AWS, Azure), and software (e.g., Unity, 3D modeling software)."
     section: announcement
     
+me:
+    title: "Dr. Jongseong Brad Choi"
+    text: ""
+    section: me
+    people:
+      - name: "Jongseong Brad Choi, Ph.D."
+        affil1: "Assistant Professor"
+        affil2: "Department of Mechanical Engineering"
+        affil3: "The State University of New York at Korea (SUNY Korea)"
+        affil4: "Stony Brook University"
+        affil5: "jongseong.choi@stonybrook.edu"
+        image: assets/img/team/500x500.jpg
+        bio: "Dr. Choi has been working on many pioneering research projects spanning both engineering mechanics and computer vision supported by NSF (National Science Foundation), NASA, EU (European Union). Much of his work focuses on automating structural health monitoring procedures via visual analytics, mainly through handling big visual data, machine-learning techniques, and aerial manipulations. He redirected and published algorithms for various engineering mechanics applications exploiting computer vision techniques such as Structure-from-Motion (SfM), Multiview geometry, and deep learning. In addition, he has made contributions to the area of propulsion and compressible flow. With the experience, his current research aims to develop smart city applications and automated systems."
+        subtext: "Visualy Analytics"
+        interest: "Research Interest"
+        edu: "Education and Employment History"        
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+          
 timeline:
-    title: "Dr. Jongseong Brad Choi" 
-    text: "AA"
+    title: "" 
+    text: ""
     image: assets/img/timeline/1.jpg
     section: timeline
     # left is the default
@@ -42,29 +66,7 @@ timeline:
         align: right
     end: "Be Part <br> of Our <br> Story!"
     
-me:
-    title: "Dr. Jongseong Brad Choi"
-    text: ""
-    subtext: "Visualy Analytics"
-    interest: "Research Interest"
-    section: me
-    people:
-      - name: "Jongseong Brad Choi, Ph.D."
-        affil1: "Assistant Professor"
-        affil2: "Department of Mechanical Engineering"
-        affil3: "The State University of New York at Korea (SUNY Korea)"
-        affil4: "Stony Brook University"
-        affil5: "jongseong.choi@stonybrook.edu"
-        image: assets/img/team/500x500.jpg
-        bio: "Dr. Choi has been working on many pioneering research projects spanning both engineering mechanics and computer vision supported by NSF (National Science Foundation), NASA, EU (European Union). Much of his work focuses on automating structural health monitoring procedures via visual analytics, mainly through handling big visual data, machine-learning techniques, and aerial manipulations. He redirected and published algorithms for various engineering mechanics applications exploiting computer vision techniques such as Structure-from-Motion (SfM), Multiview geometry, and deep learning. In addition, he has made contributions to the area of propulsion and compressible flow. With the experience, his current research aims to develop smart city applications and automated systems."
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-          
+
 
 team:
     title: "OUR AMAZING TEAM"
