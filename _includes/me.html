@@ -9,21 +9,19 @@
   </div>
   <div class="row">
   {% for person in site.data.sitetext.me.people %}
-	<div class="col-sm-8">
-	  <div class="team-member">
-		<img class="w3-round" src="{{ person.image }}" alt="" height="500" width="200">
-		<h4>{{ person.name }}</h4>
-		  <p class="text-left">{{ person.affil1 }} <br> {{ person.affil2 }} <br> {{ person.affil3 }} <br> {{ person.affil4 }} <br> {{ person.affil5 }}</p>
-		<ul class="list-inline social-buttons">
-		{% for network in person.social %}
-		  <li class="list-inline-item">
-			<a href="{{ network.url }}">
-			  <i class="{{ network.icon }}"></i>
-			</a>
-		  </li>
-		{% endfor %}
-		</ul>
-	  </div>
+	<div class="team-member">
+	  <img class="w3-round" src="{{ person.image }}" alt="" height="500" width="200">
+	  <h4>{{ person.name }}</h4>
+		<p class="text-left">{{ person.affil1 }} <br> {{ person.affil2 }} <br> {{ person.affil3 }} <br> {{ person.affil4 }} <br> {{ person.affil5 }}</p>
+	  <ul class="list-inline social-buttons">
+	  {% for network in person.social %}
+		<li class="list-inline-item">
+		  <a href="{{ network.url }}">
+			<i class="{{ network.icon }}"></i>
+		  </a>
+		 </li>
+	  {% endfor %}
+	  </ul>
 	</div>
   {% endfor %}
   </div>
