@@ -4,6 +4,9 @@ header:
     button: Tell Me More
     buttonlink: "#services"
 
+About:
+
+    
 services:
     title: "Announcement"
     text: "news 1"
