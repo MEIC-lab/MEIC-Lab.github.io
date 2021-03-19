@@ -48,8 +48,12 @@ me:
     subtext: really.
     section: me
     people:
-      - name: "Dr. Jongseong Brad Choi"
-        role: "Assistant Professor"
+      - name: "Jongseong Brad Choi, Ph.D."
+        affil1: "Assistant Professor"
+        affil2: "Department of Mechanical Engineering"
+        affil3: "The State University of New York at Korea (SUNY Korea)
+        affil4: "Stony Brook University"
+        affil5: "jongseng.choi@stonybrook.edu"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
