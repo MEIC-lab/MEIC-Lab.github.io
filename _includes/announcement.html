@@ -1,0 +1,17 @@
+<!-- announcement -->
+  <section class="page-section" id="{{ site.data.sitetext.about.section | default: "announcement" }}">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">{{ site.data.sitetext.announcement.title | default: "About Us" }}</h2>
+          <h3 class="section-subheading text-muted">{{ site.data.sitetext.announcementsubheading | default: "" }}</h3>
+        </div>
+      </div>
+	  <div class="row">
+		<div class="col-lg-8 mx-auto text-left">
+		  <div class="large text-muted">{{ site.data.sitetext.announcement.text | markdownify }}</div>
+		</div>
+	  </div>
+    </div>
+  </section>
+<!-- End announcement -->

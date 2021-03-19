@@ -1,16 +1,16 @@
 nav:
-  - title: "about"
-    section: About
   - title: "Announcement"
-    section: services
-  - title: "Research"
-    section: portfolio
+    section: announcement
   - title: "Dr. Jongseong Brad Choi"
     section: timeline
   - title: "BradBrad"
     section: me
   - title: "Team"
     section: team
+  - title: "About us"
+    section: services
+  - title: "Research"
+    section: portfolio
   - title: "Contact"
     section: contact
 

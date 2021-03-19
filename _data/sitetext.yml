@@ -4,41 +4,11 @@ header:
     button: Tell Me More
     buttonlink: "#services"
     
-about:
+announcement:
     title: "Announcement"
     subheading: ""
     text: "**Dec. 10, 2020**: We are looking for **a graduate student (PhD or Direct PhD)** who will explore cutting-edge smart structure topics, particularly in computer vision for structure assessment and virtual reality (VR, AR, & MR) applications. It is preferred that students have taken courses related to computer vision or machine learning and have programming background such as languages (e.g., Python, C++/C#), web service (e.g., AWS, Azure), and software (e.g., Unity, 3D modeling software)."
-    section: about
-    
-services:
-    title: "About us"
-    text: "news 1"
-    section: services
-    list:
-      - title: ""
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon:
-      - title: "Smart and Resilient Cities"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Visual Assessment](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-      - title: "Smart Mechanical Systems"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Smart and Resilient Cities"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Visual Assessment](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
-portfolio:
-    title: "Research"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
+    section: announcement
     
 timeline:
     title: "Dr. Jongseong Brad Choi" 
@@ -126,6 +96,38 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+    
+services:
+    title: "About us"
+    text: "news 1"
+    section: services
+    list:
+      - title: ""
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon:
+      - title: "Smart and Resilient Cities"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop       
+      - title: "[Visual Assessment](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
+      - title: "Smart Mechanical Systems"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Smart and Resilient Cities"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop       
+      - title: "[Visual Assessment](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
+
+portfolio:
+    title: "Research"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
+    closebutton: "Close Project"
+    
+
           
 
 clients:
