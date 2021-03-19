@@ -8,6 +8,8 @@
 	</div>
   </div>
   {% for person in site.data.sitetext.me.people %}
+  <img style="float: left; margin: 0px 15px 15px 0px;" src="{{ person.image }}" width="100" />
+  <div class="large text-muted">{{ site.data.sitetext.me.subtext | markdownify }}</div>
   <div class="container">
    <img class="container_image" class="mx-auto rounded-circle" src="{{ person.image }}">
    <h4>{{ person.name }}</h4>
