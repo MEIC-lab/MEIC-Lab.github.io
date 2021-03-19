@@ -121,7 +121,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
           
-About:
+about:
     title: "About Us"
     text: "our story"
     section: about
