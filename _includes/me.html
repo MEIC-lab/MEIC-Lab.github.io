@@ -10,8 +10,7 @@
   {% for person in site.data.sitetext.me.people %}
   <img style="float: left; margin: 0px 15px 15px 0px;" class="mx-auto rounded-circle" src="{{ person.image }}" width="300" />
   <div class="large text-muted">{{ site.data.sitetext.me.people.bio | markdownify }}</div>
-  <div class="container">
-   <img class="container_image" class="mx-auto rounded-circle" src="{{ person.image }}">
+
    <h4>{{ person.name }}</h4>
 	 <p class="text-left">{{ person.affil1 }} <br> {{ person.affil2 }} <br> {{ person.affil3 }} <br> {{ person.affil4 }} <br> {{ person.affil5 }}</p>
    <ul class="list-inline social-buttons">
@@ -27,7 +26,7 @@
       <p>"Cats like boxes because they are cryptic animals; they like to hide," Stephen Zawistowski, science adviser for the American Society for the Prevention of Cruelty to Animals, told Business Insider. "And a box gives them a place of safety and security."</p>
       <p>While inside a box, cats feel that they cannot be snuck up on from behind or the side — anything that wants to approach them must come directly into their field of vision. In effect, such hiding spaces allow them to watch the world around them without being seen.</p>
     </div>
-  </div>
+
 <!--	<div class="team-member">
 	  <img class="w3-round" src="{{ person.image }}" alt="" height="500" width="200">
 	  <h4>{{ person.name }}</h4>
