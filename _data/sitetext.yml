@@ -3,10 +3,6 @@ header:
     text: Welcome to MEIC Lab!
     button: Tell Me More
     buttonlink: "#services"
-
-About:
-    title: "About"
-    text: "work"
     
 services:
     title: "Announcement"
@@ -125,7 +121,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
           
-about:
+About:
     title: "About Us"
     text: "our story"
     section: about
