@@ -125,6 +125,12 @@ about:
     title: "About Us"
     text: "our story"
     section: about
+    
+footer:
+
+head:
+
+modal:
 
 clients:
     section: clients
