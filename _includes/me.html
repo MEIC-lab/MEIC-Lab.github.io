@@ -7,7 +7,6 @@
 	  <h3 class="section-subheading text-muted">{{ site.data.sitetext.me.text }}</h3>
 	</div>
   </div>
-  <div class="row">
   {% for person in site.data.sitetext.me.people %}
   <div class="container">
    <img class="w3-round" src="{{ person.image }}" alt="" height="500" width="200">
@@ -31,7 +30,6 @@
 	  </ul>
 	</div> -->
   {% endfor %}
-  </div>
   <div class="row">
 	<div class="col-lg-8 mx-auto text-center">
 	  <div class="large text-muted">{{ site.data.sitetext.me.subtext | markdownify }}</div>
