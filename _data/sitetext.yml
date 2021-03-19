@@ -50,6 +50,7 @@ me:
     people:
       - name: "Jongseong Brad Choi, Ph.D."
         affil1: "Assistant Professor"
+        affil2: "dd"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
