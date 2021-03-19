@@ -3,7 +3,7 @@
 <div class="container">
   <div class="row">
 	<div class="col-lg-12 text-center">
-	  <h3 class="section-heading text-uppercase">{{ site.data.sitetext.me.title }}</h3>
+	  <h2 class="section-heading text-uppercase">{{ site.data.sitetext.me.title }}</h2>
 	  <h3 class="section-subheading text-muted">{{ site.data.sitetext.me.text }}</h3>
 	</div>
   </div>
@@ -11,6 +11,7 @@
   {% for person in site.data.sitetext.me.people %}
   <img style="float: left; margin: 0px 15px 15px 0px;" class="mx-auto rounded-circle" src="{{ person.image }}" width="300" />
   <div class="large text-muted">{{ site.data.sitetext.me.people.bio | markdownify }}</div>
+  </div>
   <div class="container">
    <h4>{{ person.name }}</h4>
 	 <p class="text-left">{{ person.affil1 }} <br> {{ person.affil2 }} <br> {{ person.affil3 }} <br> {{ person.affil4 }} <br> {{ person.affil5 }}</p>
@@ -23,7 +24,6 @@
 	     </li>
 	{% endfor %}
 	</ul>
-  </div>
   </div>
 <!--	<div class="team-member">
 	  <img class="w3-round" src="{{ person.image }}" alt="" height="500" width="200">
