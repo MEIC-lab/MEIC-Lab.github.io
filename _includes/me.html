@@ -7,11 +7,11 @@
 	  <h3 class="section-subheading text-muted">{{ site.data.sitetext.me.text }}</h3>
 	</div>
   </div>
-  <div class="row">
+
   {% for person in site.data.sitetext.me.people %}
   <img style="float: left; margin: 0px 15px 15px 0px;" class="mx-auto rounded-circle" src="{{ person.image }}" width="300" />
   <div class="large text-muted">{{ person.bio | markdownify }}</div>
-  </div>
+
   <div class="container">
    <h4>{{ person.name }}</h4>
 	 <p class="text-left" class="text-muted">{{ person.affil1 }} <br> {{ person.affil2 }} <br> {{ person.affil3 }} <br> {{ person.affil4 }} <br> {{ person.affil5 }}</p>
