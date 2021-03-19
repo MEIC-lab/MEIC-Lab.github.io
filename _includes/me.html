@@ -13,17 +13,21 @@
   <div class="large text-muted">{{ person.bio | markdownify }}</div>
 
   <div class="container">
-   <h4>{{ person.name }}</h4>
-	 <p class="text-left text-muted">{{ person.affil1 }} <br> {{ person.affil2 }} <br> {{ person.affil3 }} <br> {{ person.affil4 }} <br> {{ person.affil5 }}</p>
-   <ul class="list-inline social-buttons">
+    <img class="container__image" src="{{ person.image }}">
+    <h4>{{ person.name }}</h4>
+	  <p class="text-left text-muted">{{ person.affil1 }} <br> {{ person.affil2 }} <br> {{ person.affil3 }} <br> {{ person.affil4 }} <br> {{ person.affil5 }}</p>
+      <ul class="list-inline social-buttons">
 	  {% for network in person.social %}
 		<li class="list-inline-item">
 		 <a href="{{ network.url }}">
 		  <i class="{{ network.icon }}"></i>
 		 </a>
 	     </li>
-	{% endfor %}
-	</ul>
+	  {% endfor %}
+	  </ul>
+	 <div class="container__text">
+	 <p>"ddddddddddddddddd"</p>
+	 </div>
   </div>
 <!--	<div class="team-member">
 	  <img class="w3-round" src="{{ person.image }}" alt="" height="500" width="200">
