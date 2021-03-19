@@ -14,13 +14,12 @@
 		<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
 		<h4>{{ person.name }}</h4>
 		<div class="col-lg-8 mx-auto text-left">
-		  <p class="text-muted">{{ person.affil3 }}</p>
+		  <p>{{ person.affil1 }}</p>
+		  <p>{{ person.affil2 }}</p>
+		  <p>{{ person.affil3 }}</p>
+		  <p>{{ person.affil4 }}</p>
+		  <p>{{ person.affil5 }}</p>
 		</div>
-		<p class="pull-left">{{ person.affil1 }}</p>
-		<p class="clearfix">{{ person.affil2 }}</p>
-		<p class="text-muted">{{ person.affil3 }}</p>
-		<p class="text-muted">{{ person.affil4 }}</p>
-		<p class="text-muted">{{ person.affil5 }}</p>
 		<ul class="list-inline social-buttons">
 		{% for network in person.social %}
 		  <li class="list-inline-item">
