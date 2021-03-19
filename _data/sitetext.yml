@@ -4,8 +4,13 @@ header:
     button: Tell Me More
     buttonlink: "#services"
     
-services:
+about:
     title: "Announcement"
+    text: "dd"
+    section: about
+    
+services:
+    title: "About us"
     text: "news 1"
     section: services
     list:
@@ -121,16 +126,6 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
           
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
-    
-footer:
-
-head:
-
-modal:
 
 clients:
     section: clients
