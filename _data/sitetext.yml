@@ -45,7 +45,8 @@ timeline:
 me:
     title: "Dr. Jongseong Brad Choi"
     text: ""
-    subtext: really.
+    subtext: "Research Interest"
+    interest: "Visualy Analytics"
     section: me
     people:
       - name: "Jongseong Brad Choi, Ph.D."
