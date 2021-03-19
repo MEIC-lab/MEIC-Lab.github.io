@@ -68,8 +68,8 @@ timeline:
     
 me:
     title: "BradBrad"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "This is right?."
+    subtext: really.
     section: me
     people:
       - name: "Kay Garland"
