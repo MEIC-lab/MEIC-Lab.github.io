@@ -43,13 +43,13 @@ timeline:
     end: "Be Part <br> of Our <br> Story!"
     
 me:
-    title: "BradBrad"
-    text: "This is right?."
+    title: "Dr. Jongseong Brad Choi"
+    text: ""
     subtext: really.
     section: me
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Dr. Jongseong Brad Choi"
+        role: "Assistant Professor"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
