@@ -135,7 +135,11 @@ portfolio:
     section: portfolio
     closebutton: "Close Project"
     
-
+facility:
+    title: "Facility"
+    subheading: ""
+    fac1: "To be updated."
+    section: facility
           
 
 clients:
