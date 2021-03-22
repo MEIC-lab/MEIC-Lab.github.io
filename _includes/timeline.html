@@ -22,6 +22,7 @@
 		<li class="list-inline-item">
 		 <a href="{{ network.url }}">
 		  <i class="{{ network.icon }}"></i>
+		  <div class="large text-muted">{{ network.desc | markdownify }}</div>
 		 </a>
 	     </li>
 	  {% endfor %}
