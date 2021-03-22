@@ -123,6 +123,11 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
     
+publication:
+    title: "Publication"
+    subheading: ""
+    pub1: "CACAIE, 2021"
+    section: publication
 
 portfolio:
     title: "Research"
