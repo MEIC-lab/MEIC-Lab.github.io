@@ -164,7 +164,6 @@ clients:
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
     
-
 contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
