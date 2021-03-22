@@ -1,6 +1,49 @@
 <!-- About -->
   <section class="page-section" id="{{ site.data.sitetext.timeline.section | default: "about" }}">
     <div class="container">
+	
+	  <div class="row">
+	<div class="col-lg-12 text-center">
+	  <h3 class="section-heading text-uppercase">{{ site.data.sitetext.timeline.title }}</h3>
+	  <h3 class="section-subheading text-muted">{{ site.data.sitetext.timeline.text }}</h3>
+	</div>
+  </div>
+
+  {% for person in site.data.sitetext.timeline.people %}
+  <div class="container">
+    <img class="container__image" src="{{ person.image }}" width="300">
+    <h4>{{ person.name }}</h4>
+	  <p class="text-left text-muted">{{ person.affil1 }} <br> {{ person.affil2 }} <br> {{ person.affil3 }} <br> {{ person.affil4 }} <br> {{ person.affil5 }}</p>
+      <ul class="list-inline social-buttons">
+	  {% for network in person.social %}
+		<li class="list-inline-item">
+		 <a href="{{ network.url }}">
+		  <i class="{{ network.icon }}"></i>
+		 </a>
+	     </li>
+	  {% endfor %}
+	  </ul>
+	 <div class="container__text">
+	   <div class="large text-muted">{{ person.bio | markdownify }}</div>
+	   <h4>{{ person.interest | markdownify }}</h4>
+	   <div class="large text-muted">{{ person.subtext | markdownify }}</div>
+	   <h4>{{ person.edu | markdownify }}</h4>
+	 </div>
+  </div>
+  {% endfor %}
+  <div class="row">
+	<div class="col-lg-8 mx-auto text-center">
+      <h4>{{ site.data.sitetext.timeline.interest | markdownify }}</h4>
+	  <div class="large text-muted">{{ site.data.sitetext.timeline.subtext | markdownify }}</div>
+	</div>
+  </div>
+	
+	
+	
+	
+	
+	
+	
       <div class="row">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase">{{ site.data.sitetext.timeline.title | markdownify | default: "About" }}</h2>
