@@ -57,7 +57,7 @@ timeline:
           - url: https://meic-lab.github.io/assets/doc/Curriculum_Vitae_JongseongChoi_15Mar2021.pdf
             icon: fab fa-twitter-t
           - url: https://scholar.google.com/citations?hl=en&user=67bAnnUAAAAJ&view_op=list_works&sortby=pubdate
-            icon: fab fa-facebook-f
+            icon: assets/img/Google_Scholar_logo.jpg
           - url: https://www.linkedin.com/in/jongseong-brad-choi-19b17617a/
             icon: fab fa-linkedin-in
     events:
