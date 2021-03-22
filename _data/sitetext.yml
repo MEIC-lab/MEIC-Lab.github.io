@@ -142,6 +142,13 @@ facility:
     section: facility
           
 
+courses:
+    title: "Courses"
+    subheading: ""
+    cour: "Thermodynamics" <br> "Mechanics of Solids"
+    section: courses
+        
+
 clients:
     section: clients
     max-height: 100px
