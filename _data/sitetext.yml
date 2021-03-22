@@ -55,9 +55,9 @@ timeline:
         edu: "Education and Employment History"        
         social:
           - url: https://meic-lab.github.io/assets/doc/Curriculum_Vitae_JongseongChoi_15Mar2021.pdf
-            icon: fab fa-twitter-t
+            icon: assets/img/CV_logo.jpg
           - url: https://scholar.google.com/citations?hl=en&user=67bAnnUAAAAJ&view_op=list_works&sortby=pubdate
-            icon: assets/img/Google_Scholar_logo.jpg
+            icon: assets/img/Google_Scholar_logo.png
           - url: https://www.linkedin.com/in/jongseong-brad-choi-19b17617a/
             icon: fab fa-linkedin-in
     events:
