@@ -14,7 +14,10 @@
     <img class="container__image" src="{{ person.image }}" width="300">
     <h4>{{ person.name }}</h4>
 	  <p class="text-left text-muted">{{ person.affil1 }} <br> {{ person.affil2 }} <br> {{ person.affil3 }} <br> {{ person.affil4 }} <br> {{ person.affil5 }}</p>
-      <ul class="list-inline social-buttons">
+      <div class="container__text">
+	  <div class="large text-muted">{{ person.bio | markdownify }}</div>
+	  </div>
+	  <ul class="list-inline social-buttons">
 	  {% for network in person.social %}
 		<li class="list-inline-item">
 		 <a href="{{ network.url }}">
@@ -24,7 +27,6 @@
 	  {% endfor %}
 	  </ul>
 	 <div class="container__text">
-	   <div class="large text-muted">{{ person.bio | markdownify }}</div>
 	   <h4>{{ person.interest | markdownify }}</h4>
 	   <div class="large text-muted">{{ person.subtext | markdownify }}</div>
 	   <h4>{{ person.edu | markdownify }}</h4>
