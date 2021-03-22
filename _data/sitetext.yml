@@ -105,6 +105,12 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
     
+publication:
+    title: "Publication"
+    subheading: ""
+    text: "Choi, CACAIE"
+    section: publication
+    
 services:
     title: "About us"
     text: "news 1"
@@ -135,8 +141,17 @@ portfolio:
     section: portfolio
     closebutton: "Close Project"
     
-
-          
+facility:
+    title: "Facility"
+    text: "Facility"
+    section: facility
+    closebutton: "Close Project"
+    
+courses:
+    title: "Courses"
+    subheading: ""
+    text: "Courses"
+    section: courses
 
 clients:
     section: clients

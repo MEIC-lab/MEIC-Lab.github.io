@@ -1,16 +1,17 @@
 nav:
-  - title: "Announcement"
-    section: announcement
+  - title: "Home"
+    section: services
   - title: "Dr. Jongseong Brad Choi"
-    section: timeline
-  - title: "BradBrad"
     section: me
   - title: "Team"
     section: team
-  - title: "About us"
-    section: services
+  - title: "Publication"
+    section: publication
   - title: "Research"
     section: portfolio
-  - title: "Contact"
-    section: contact
+  - title: "Facility"
+    section: portfolio
+  - title: "Courses"
+    section: courses
+
 
