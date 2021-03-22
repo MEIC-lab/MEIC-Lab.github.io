@@ -1,8 +1,12 @@
 nav:
+  - title: "Announcement"
+    section: announcement
   - title: "Home"
     section: services
   - title: "Dr. Jongseong Brad Choi"
     section: me
+  - title: "timeline"
+    section: timeline
   - title: "Team"
     section: team
   - title: "Publication"
