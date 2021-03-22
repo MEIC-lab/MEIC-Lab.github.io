@@ -145,7 +145,7 @@ facility:
 courses:
     title: "Courses"
     subheading: ""
-    cour: "Thermodynamics Mechanics of Solids"
+    cour: "Thermodynamics <br> Mechanics of Solids"
     section: courses
         
 
