@@ -7,7 +7,7 @@ header:
 announcement:
     title: "Announcement"
     subheading: ""
-    text: "**Dec. 10, 2020**: We are looking for **a graduate student (PhD or Direct PhD)** who will explore cutting-edge smart structure topics, particularly in computer vision for structure assessment and virtual reality (VR, AR, & MR) applications. It is preferred that students have taken courses related to computer vision or machine learning and have programming background such as languages (e.g., Python, C++/C#), web service (e.g., AWS, Azure), and software (e.g., Unity, 3D modeling software)."
+    text: "**Dec. 10, 2020**: We are looking for **a graduate student (PhD or Direct PhD)** who will explore cutting-edge smart structure topics, particularly in computer vision for structure assessment and virtual reality (VR, AR, & MR) applications. It is preferred that students have taken courses related to computer vision or machine learning and have programming background such as languages (e.g., Python, C++/C#), web service (e.g., AWS, Azure), and software (e.g., Unity, 3D modeling software). <br> For more information: "
     section: announcement
     
 services:
