@@ -49,17 +49,20 @@ timeline:
         affil4: "Stony Brook University"
         affil5: "jongseong.choi@stonybrook.edu"
         image: assets/img//Brad_profile.jpg
-        bio: "Dr. Choi has been working on many pioneering research projects spanning both engineering mechanics and computer vision supported by NSF (National Science Foundation), NASA, EU (European Union). Much of his work focuses on automating structural health monitoring procedures via visual analytics, mainly through handling big visual data, machine-learning techniques, and aerial manipulations. He redirected and published algorithms for various engineering mechanics applications exploiting computer vision techniques such as Structure-from-Motion (SfM), Multiview geometry, and deep learning. In addition, he has made contributions to the area of propulsion and compressible flow. With the experience, his current research aims to develop smart city applications and automated systems."
+        bio: "Dr. Choi has been working on many pioneering research projects spanning both engineering mechanics and computer vision supported by NSF (National Science Foundation), NASA, EU (European Union). Much of his work focuses on automating structural health monitoring procedures via visual analytics, mainly through handling big visual data, machine-learning techniques, and aerial manipulations. He redirected and published algorithms for various engineering mechanics applications exploiting computer vision techniques such as Structure-from-Motion (SfM), Multiview geometry, and deep learning. In addition, he has made contributions to the area of propulsion and compressible flow. With the experience, his current research aims to develop smart city applications and automated systems. <br> For more information, please click the icon below"
         subtext: "Visualy Analytics"
         interest: "Research Interest"
         edu: "Education and Employment History"        
         social:
           - url: https://meic-lab.github.io/assets/doc/Curriculum_Vitae_JongseongChoi_15Mar2021.pdf
             icon: assets/img/CV_logo.jpg
+            desc: CV
           - url: https://scholar.google.com/citations?hl=en&user=67bAnnUAAAAJ&view_op=list_works&sortby=pubdate
             icon: assets/img/Google_Scholar_logo.png
+            desc: Google Scholar
           - url: https://www.linkedin.com/in/jongseong-brad-choi-19b17617a/
             icon: fab fa-linkedin-in
+            desc: Linkedin
     events:
       - title: "Our Humble Beginnings"
         year: "2009-2011"
