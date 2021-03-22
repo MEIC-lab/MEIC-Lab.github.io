@@ -140,12 +140,6 @@ portfolio:
     section: portfolio
     closebutton: "Close Project"
     
-facility:
-    title: "Facility"
-    text: "Facility"
-    section: facility
-    closebutton: "Close Project"
-    
 courses:
     title: "Courses"
     subheading: ""
