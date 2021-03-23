@@ -55,14 +55,10 @@ timeline:
         edu: "Education and Employment History"        
         social:
           - url: https://meic-lab.github.io/assets/doc/Curriculum_Vitae_JongseongChoi_15Mar2021.pdf
-            icon: assets/img/CV_logo.jpg
-            desc: CV
+            desc: Download CV
           - url: https://scholar.google.com/citations?hl=en&user=67bAnnUAAAAJ&view_op=list_works&sortby=pubdate
-            icon: assets/img/Google_Scholar_logo.png
-            desc: G
-          - url: https://www.linkedin.com/in/jongseong-brad-choi-19b17617a/
-            icon: Linkedin_logo
-            desc: L
+            desc: Google Scholar
+
     events:
       - title: "Our Humble Beginnings"
         year: "2009-2011"
