@@ -17,15 +17,14 @@
       <div class="container__text">
 	  <div class="large">{{ person.bio | markdownify }}</div>
 	  </div>
-	  <ul class="list-inline social-buttons">
+
 	  {% for network in person.social %}
-		<li class="list-inline-item">
-		 <a href="{{ network.url }}">
-		  <div class="large text-muted">{{ network.desc | markdownify }}</div>
-		 </a>
-	     </li>
+	    <form action="{{ network.url }}">
+         <input type="submit" value="{{ network.desc }}" />
+        </form>
+
 	  {% endfor %}
-	  </ul>
+
 	 <div class="container__text">
 	   <h4>{{ person.interest | markdownify }}</h4>
 	   <div class="large text-muted">{{ person.subtext | markdownify }}</div>
