@@ -61,8 +61,8 @@ Manipulation; Propulsion; Heat Transfer"
     events:
       - title: "Assistant Professor"
         year: "2020 - present"
-        desc: "Mechanical Engineering <>"
-        image: assets/img/timeline/sunykorea.png
+        desc: "Mechanical Engineering <br> The State University of New York, SUNY Korea, South Korea"
+        image:
         alt: 
       - title: "An Agency is Born"
         year: "March 2011"
