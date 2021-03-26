@@ -15,8 +15,8 @@
   }
   > li {
     position: relative;
-    min-height: 25px;
-    margin-bottom: 25px;
+    min-height: 50px;
+    margin-bottom: 50px;
     &:after,
     &:before {
       display: table;
@@ -29,7 +29,7 @@
       position: relative;
       float: right;
       width: 100%;
-      padding: 0 20px 0 100px;
+      padding: 0 10px 0 50px;
       text-align: left;
       &:before {
         right: auto;
@@ -46,15 +46,15 @@
     }
     .timeline-image {
       position: absolute;
-      z-index: 100;
+      z-index: 50;
       left: 0;
-      width: 80px;
-      height: 80px;
+      width: 40px;
+      height: 40px;
       margin-left: 0;
       text-align: center;
       color: $white;
       border: 7px solid $gray-200;
-      border-radius: 100%;
+      border-radius: 50%;
       background-color: $primary;
       h4 {
         font-size: 10px;
@@ -64,7 +64,7 @@
     }
     &.timeline-inverted > .timeline-panel {
       float: right;
-      padding: 0 20px 0 100px;
+      padding: 0 10px 0 50px;
       text-align: left;
       &:before {
         right: auto;
