@@ -59,9 +59,9 @@ Manipulation; Propulsion; Heat Transfer"
             desc: Download CV
 
     events:
-      - title: "Our Humble Beginnings"
+      - title: "Assistant Professor"
         year: "2020 - present"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Mechanical Engineering <>"
         image: assets/img/timeline/sunykorea.png
         alt: 
       - title: "An Agency is Born"
