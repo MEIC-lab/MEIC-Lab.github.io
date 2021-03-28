@@ -85,7 +85,7 @@ Manipulation; Propulsion; Heat Transfer"
         image: 
         alt: 
         # you can enforce the aligment
-        align: right
+        align: left
     end:
     
 
