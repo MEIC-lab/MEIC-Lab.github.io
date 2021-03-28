@@ -64,10 +64,10 @@ Manipulation; Propulsion; Heat Transfer"
         desc: "Mechanical Engineering <br> The State University of New York, SUNY Korea, South Korea"
         image:
         alt: 
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/sbu.png
+      - title: "Research Professor"
+        year: "2020 - present"
+        desc: "Mechanical Engineering <br> The State University of New York, Stony Brook University, United States"
+        image:
         alt: 
       - title: "Jekyll Theme is created"
         year: "2019"
