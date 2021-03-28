@@ -74,10 +74,15 @@ Manipulation; Propulsion; Heat Transfer"
         desc: "Mechanical Engineering, Purdue University, United States"
         image:
         alt: 
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/olemiss.png
+      - title: "Master's Degree"
+        year: "2012-2014"
+        desc: "Mechanical Engineering, The University of Mississippi, United States"
+        image: 
+        alt: 
+        - title: "Bachelor's Degree"
+        year: "2012"
+        desc: "Mechanical Engineering, The University of Mississippi, United States"
+        image: 
         alt: 
         # you can enforce the aligment
         align: right
