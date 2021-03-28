@@ -25,25 +25,7 @@
     &:after {
       clear: both;
     }
-    .timeline-panel {
-      position: relative;
-      float: right;
-      width: 100%;
-      padding: 0 20px 0 100px;
-      text-align: left;
-      &:before {
-        right: auto;
-        left: -15px;
-        border-right-width: 15px;
-        border-left-width: 0;
-      }
-      &:after {
-        right: auto;
-        left: -14px;
-        border-right-width: 14px;
-        border-left-width: 0;
-      }
-    }
+
     .timeline-image {
       position: absolute;
       z-index: 100;
