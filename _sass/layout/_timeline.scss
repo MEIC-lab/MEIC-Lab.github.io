@@ -105,8 +105,8 @@
       left: 50%;
     }
     > li {
-      min-height: 100px;
-      margin-bottom: 100px;
+      min-height: 50px;
+      margin-bottom: 50px;
       .timeline-panel {
         float: left;
         width: 41%;
@@ -119,14 +119,14 @@
         height: 100px;
         margin-left: -50px;
         h4 {
-          font-size: 13px;
-          line-height: 18px;
-          margin-top: 16px;
+          font-size: 1px;
+          line-height: 1px;
+          margin-top: 1px;
         }
       }
       &.timeline-inverted > .timeline-panel {
         float: right;
-        padding: 0 30px 20px 20px;
+        padding: 0 10px 10px 10px;
         text-align: left;
       }
     }
@@ -135,18 +135,18 @@
 @media(min-width:992px) {
   .timeline {
     > li {
-      min-height: 150px;
+      min-height: 50px;
       .timeline-panel {
-        padding: 0 20px 20px;
+        padding: 0 10px 10px;
       }
       .timeline-image {
-        width: 150px;
-        height: 150px;
+        width: 10px;
+        height: 10px;
         margin-left: -75px;
         h4 {
-          font-size: 18px;
-          line-height: 26px;
-          margin-top: 30px;
+          font-size: 1px;
+          line-height: 1px;
+          margin-top: 1px;
         }
       }
       &.timeline-inverted > .timeline-panel {
@@ -158,9 +158,9 @@
 @media(min-width:1200px) {
   .timeline {
     > li {
-      min-height: 170px;
+      min-height: 10px;
       .timeline-panel {
-        padding: 0 20px 20px 100px;
+        padding: 0 10px 10px 50px;
       }
       .timeline-image {
         width: 170px;
