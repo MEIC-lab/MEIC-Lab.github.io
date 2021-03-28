@@ -50,12 +50,12 @@
                 <li>
               {%- else -%}
                 {%- assign align = "left" %}
-                <li class="timeline-inverted">
+                <li class="timeline">
               {% endif %}
             {% else %}
               {%- if event.align and event.align == "right" -%}
                 {%- assign align = "left" -%}
-                <li class="timeline-inverted">
+                <li class="timeline">
               {%- else -%}
                 {%- assign align = "right" %}
                 <li>
@@ -77,7 +77,7 @@
 		  {% endfor %}	
             
 		  {% if site.data.sitetext.timeline.end %}	
-			<li class="timeline-inverted">
+			<li class="timeline">
               <div class="timeline-image">
                 <h4>{{ site.data.sitetext.timeline.end }}</h4>
               </div>
