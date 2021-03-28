@@ -7,16 +7,15 @@
     position: absolute;
     top: 0;
     bottom: 0;
-    left: 4px;
-    width: 1px;
+    left: 40px;
+    width: 2px;
     margin-left: -1.5px;
     content: '';
-    background-color: $gray-200;
   }
   > li {
     position: relative;
-    min-height: 50px;
-    margin-bottom: 50px;
+    min-height: 5px;
+    margin-bottom: 5px;
     &:after,
     &:before {
       display: table;
