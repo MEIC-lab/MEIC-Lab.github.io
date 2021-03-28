@@ -61,27 +61,27 @@ Manipulation; Propulsion; Heat Transfer"
     events:
       - title: "Assistant Professor"
         year: "2020 - present"
-        desc: "Mechanical Engineering <br> The State University of New York, SUNY Korea, South Korea"
+        desc: "Mechanical Engineering <br> The State University of New York, <br>SUNY Korea, South Korea"
         image:
         alt: 
       - title: "Research Professor"
         year: "2020 - present"
-        desc: "Mechanical Engineering <br> The State University of New York, Stony Brook University, United States"
+        desc: "Mechanical Engineering <br> The State University of New York, <br>Stony Brook University, United States"
         image:
         alt: 
       - title: "Doctoral Degree"
         year: "2014 - 2020"
-        desc: "Mechanical Engineering, Purdue University, United States"
+        desc: "Mechanical Engineering <br>Purdue University, United States"
         image:
         alt: 
       - title: "Master's Degree"
         year: "2012-2014"
-        desc: "Mechanical Engineering, The University of Mississippi, United States"
+        desc: "Mechanical Engineering <br>The University of Mississippi, United States"
         image: 
         alt: 
       - title: "Bachelor's Degree"
         year: "2012"
-        desc: "Mechanical Engineering, The University of Mississippi, United States"
+        desc: "Mechanical Engineering <br>The University of Mississippi, United States"
         image: 
         alt: 
         # you can enforce the aligment
