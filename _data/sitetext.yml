@@ -69,11 +69,11 @@ Manipulation; Propulsion; Heat Transfer"
         desc: "Mechanical Engineering <br> The State University of New York, Stony Brook University, United States"
         image:
         alt: 
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/purdue.png
-        alt: image alt text
+      - title: "Doctoral Degree"
+        year: "2014 - 2020"
+        desc: "Mechanical Engineering, Purdue University, United States"
+        image:
+        alt: 
       - title: "Title"
         year: "2009-2011"
         desc: "Your description here, **Markdown** is fully supported."
